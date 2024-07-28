@@ -10,7 +10,12 @@ Soy un desarrollador web full-stack junior con una sólida base en tecnologías 
 
 ## 🌐 Conéctate conmigo:
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/santiago-palacio-7623a527b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/santiago-palacio-7623a527b" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/santiago-palacio-7623a527b" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:tu-spa497@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" height="30" width="30" />
+  </a>
 </p>
 
 ## 🛠️ Idiomas y herramientas:
@@ -61,7 +66,7 @@ Soy un desarrollador web full-stack junior con una sólida base en tecnologías 
 ## 📂 Proyectos:
 <p align="left">
   <a href="https://github.com/SPalacioAhun/PI-Driver">
-    <img src="./assets/driver.png" alt="Proyecto 1" style="width: 150px; height: auto; margin-right: 10px;" />
+    <img src="./assets/driver.png" alt="Proyecto driver" style="width: 200px; height: 150px; margin-right: 10px;" />
   </a>
   <a href="https://github.com/tu-usuario/tu-proyecto2">
     <img src="https://via.placeholder.com/150" alt="Proyecto 2" style="width: 150px; height: auto; margin-right: 10px;" />
