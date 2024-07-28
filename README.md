@@ -10,10 +10,10 @@ Soy un desarrollador web full-stack junior con una sólida base en tecnologías 
 
 ## 🌐 Conéctate conmigo:
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/santiago-palacio-7623a527b" target="blank">
+  <a href="https://www.linkedin.com/in/santiago-palacio-7623a527b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:tu-spa497@gmail.com" target="blank">
+  <a href="mailto:spa497@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" height="30" width="30" />
   </a>
 </p>
