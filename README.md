@@ -60,8 +60,8 @@ Soy un desarrollador web full-stack junior con una sólida base en tecnologías 
 
 ## 📂 Proyectos:
 <p align="left">
-  <a href="https://github.com/tu-usuario/tu-proyecto1">
-    <img src="" alt="Proyecto 1" style="width: 150px; height: auto; margin-right: 10px;" />
+  <a href="https://github.com/SPalacioAhun/PI-Driver">
+    <img src="./assets/driver.png" alt="Proyecto 1" style="width: 150px; height: auto; margin-right: 10px;" />
   </a>
   <a href="https://github.com/tu-usuario/tu-proyecto2">
     <img src="https://via.placeholder.com/150" alt="Proyecto 2" style="width: 150px; height: auto; margin-right: 10px;" />
