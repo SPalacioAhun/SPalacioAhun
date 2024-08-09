@@ -83,5 +83,8 @@ Si estás interesado en colaborar en proyectos o simplemente quieres conectar, n
   <a href="https://www.youtube.com/watch?v=mTdL0whEhVg">
     <img src="./assets/campeones.png" alt="Campeones del mundo" style="width: 200px; height: 150px; margin-right: 10px;" />
   </a>
+  <!-- <a href="https://github.com/SPalacioAhun/PI-Driver">
+    <img src="./assets/driver.png" alt="Proyecto driver" style="width: 200px; height: 150px; margin-right: 10px;" />
+  </a> -->
 </p>
 
